@@ -6,8 +6,6 @@ Sou Fagner Maciel de Moraes, profissional de Tecnologia da Informação com expe
 
 Atualmente desenvolvo e mantenho sistemas web completos, criados manualmente em PHP e MySQL. 
 
-Entre meus projetos estão o Portal NETCURSOS, uma plataforma de gestão acadêmica com módulos de CRM e financeiro, e o site do Prêmio de Jornalismo do Governo de Mato Grosso, com sistema de inscrição e painel administrativo.
-
 Gosto de aprender continuamente e aplicar soluções que facilitem o dia a dia das pessoas. Tenho facilidade em liderar processos, organizar fluxos de trabalho e traduzir necessidades técnicas em soluções práticas. Estou aberto a novos desafios, inclusive com mudança de cidade e expansão de área de atuação, especialmente nas áreas de educação, inteligência artificial e suporte ao usuário.
 
 --- 
