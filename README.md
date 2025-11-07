@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web Fullstack`**
 
-Sou Fagner Maciel de Moraes, profissional de Tecnologia da Informação com experiência em suporte técnico, infraestrutura e desenvolvimento web. Atuo prestando atendimento ao usuário, tanto presencialmente quanto de forma remota, e tenho vivência na administração de ambientes Windows Server (Active Directory, File Server, Hyper-V) e Linux (instalação e configuração).
+Sou Fagner Moraes, profissional de Tecnologia da Informação com experiência em suporte técnico, infraestrutura e desenvolvimento web. Atuo prestando atendimento ao usuário, tanto presencialmente quanto de forma remota, e tenho vivência na administração de ambientes Windows Server (Active Directory, File Server, Hyper-V) e Linux (instalação e configuração).
 
 Atualmente desenvolvo e mantenho sistemas web completos, criados manualmente em PHP e MySQL. 
 
